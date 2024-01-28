@@ -71,14 +71,14 @@ Microsoft Power BI, MIRO, DBeaver и Python.
 ![Физическая_модель_данных](Физическая_модель_данных.png)
 
 Подробное описание модели данных можно 
-[посмотреть здесь](img/https://github.com):
+[посмотреть здесь](https://github.com/Jessjesss/Dashboard_for_hotels/blob/master/database_description.md):
 
 
 # 4. Генерация данных с помощью Python:
 
  Для тестирования аналитического решения был разработан скрипт на Python для генерации тестовых данных, которые соответствуют реальной структуре данных.
 
-[Посмотреть коды генерации](img/https://github.com)
+[Посмотреть коды генерации](https://github.com/Jessjesss/Dashboard_for_hotels/tree/master/Python_codes)
 
 # 5. Разработка макета дашборда:
 Макет разрабатывался в программе MIRO с использованием готовых элементов визуализаций из фреймворка “Dashboard Canvas 2.0”
