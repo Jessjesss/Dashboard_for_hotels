@@ -1,0 +1,79 @@
+service_id,hotel_id,category,name,price,discount,description
+1,1,Banya,Finskaya sauna,1500,,Dlya 6-8 chelovek
+2,1,Banya,Russkaya banya,2000,,Dlya 4-6 chelovek
+3,1,Banya,Banya na drovakh,2500,,Dlya 2-4 chelovek
+4,1,SPA,Muzhskoy massazh,3500,,Klassicheskiy massazh dlya muzhchin
+5,1,SPA,Zhenskiy massazh,3500,,Klassicheskiy massazh dlya zhenshchin
+6,1,SPA,Spa procedury,5000,,Kompleks spa-protsedur
+7,1,RESTAURANT,Zavtrak,500,,Blyuda evropeyskoy kukhni
+8,1,RESTAURANT,Obed,800,,Blyuda evropeyskoy i aziskoy kukhni
+9,1,RESTAURANT,Uzhin,1000,,Blyuda evropeyskoy i natsionalnoy kukhni
+10,1,FITNESS,Gimnastika,500,,Zanyatiya gimnastikoy
+11,1,FITNESS,Kardiotrenirovki,800,,Zanyatiya na kardiotrenazherakh
+12,1,FITNESS,Personalnyy trener,2500,,Individualnye trenirovki
+13,1,Prokat,Prokat gornolyzhnogo snaryazheniya,2500,,Snowboard ili lyzhi complect
+14,1,Prikat,Prokat botinok,1000,,
+15,1,Prikat,Prokat odezhdy,2000,,
+16,1,POOL,Basseyn,1000,0,Basseyn dlya vsekh gostey
+17,1,POOL,Jacuzzi,1500,0,Relaksatsiya v dzhakuzi
+18,1,ROOM_SERVICE,Pitstsa,800,,Pitstsa dostavlyaetsya v nomer
+19,1,ROOM_SERVICE,Sushi,1000,,Sushi dostavlyaetsya v nomer
+20,2,Banya,Finskaya sauna,2500,,Dlya 6-8 chelovek
+21,2,Banya,Russkaya banya,3000,,Dlya 4-6 chelovek
+22,2,Banya,Banya na drovah,3500,,Dlya 2-4 chelovek
+23,2,Bassein,Krytyy bassein,3500,,Dlya 10-12 chelovek
+24,2,Bassein,Otkrytyy bassein,4500,,Dlya 10-12 chelovek
+25,2,RESTAURANT,Zavtrak,1500,,Blyuda evropeyskoy kukhni
+26,2,RESTAURANT,Obed,2000,,Blyuda evropeyskoy i aziskoy kukhni
+27,2,RESTAURANT,Uzhin,2000,,Blyuda evropeyskoy i natsionalnoy kukhni
+28,2,Sport,Tennisnyy kort,4000,,Vechernee osveshchenie
+29,2,Sport,Basketbolnaya ploshchadka,2000,,Dlya komandnoy igry
+30,2,Sport,Futbolnoe pole,5000,,Dlya 11 igrokov
+31,2,Spa,SPA-kompleks,7000,,"Massazh, kosmetologiya, fitnes"
+32,2,Razvlecheniya,Kinoteatr,3000,,Sovremennoe oborudovanie
+33,2,Razvlecheniya,Karaoke-zal,2500,,Dlya 4-6 chelovek
+34,2,Razvlecheniya,Billiard,1500,,Amerikanskiy i russkiy
+35,2,Razvlecheniya,Nastolnye igry,500,,"Shakhmaty, nardy i dr."
+36,3,Banya,Finskaya sauna,3000,,Dlya 6-8 chelovek
+37,3,Banya,Russkaya banya,3500,,Dlya 4-6 chelovek
+38,3,Banya,Banya na drovah,4000,,Dlya 2-4 chelovek
+39,3,Bassein,Krytyy bassein,4000,,Dlya 10-12 chelovek
+40,3,Bassein,Otkrytyy bassein,5000,,Dlya 10-12 chelovek
+41,3,RESTAURANT,Zavtrak,2000,,Blyuda evropeyskoy kukhni
+42,3,RESTAURANT,Obed,2500,,Blyuda evropeyskoy i aziskoy kukhni
+43,3,RESTAURANT,Uzhin,2500,,Blyuda evropeyskoy i natsionalnoy kukhni
+44,3,Sport,Tennisnyy kort,4500,,Vechernee osveshchenie
+45,3,Sport,Basketbolnaya ploshchadka,2500,,Dlya komandnoy igry
+46,3,Sport,Futbolnoe pole,6000,,Dlya 11 igrokov
+47,3,Spa,SPA-kompleks,8000,,"Massazh, kosmetologiya, fitnes"
+48,3,Prokat,Prokat gornolyzhnogo snaryazheniya,3000,,Snowboard ili lyzhi complect
+49,3,Prokat,Prokat botinok,1500,,
+50,3,Prokat,Prokat odezhdy,3000,,
+51,3,Razvlecheniya,Nastolnye igry,800,,"Shakhmaty, nardy"
+52,3,POOL,Basseyn,2000,0,Basseyn dlya vsekh gostey
+53,3,POOL,Jacuzzi,2500,0,Relaksatsiya v dzhakuzi
+54,3,ROOM_SERVICE,Pitstsa,1500,,Pitstsa dostavlyaetsya v nomer
+55,3,ROOM_SERVICE,Sushi,1500,,Sushi dostavlyaetsya v nomer
+56,4,Banya,Finskaya sauna,3500,,Dlya 6-8 chelovek
+57,4,Banya,Russkaya banya,4000,,Dlya 4-6 chelovek
+58,4,Banya,Banya na drovah,4500,,Dlya 2-4 chelovek
+59,4,Bassein,Krytyy bassein,4500,,Dlya 10-12 chelovek
+60,4,Bassein,Otkrytyy bassein,5500,,Dlya 10-12 chelovek
+61,4,RESTAURANT,Zavtrak,2500,,Blyuda evropeyskoy kukhni
+62,4,RESTAURANT,Obed,3000,,Blyuda evropeyskoy i aziskoy kukhni
+63,4,RESTAURANT,Uzhin,3000,,Blyuda evropeyskoy i natsionalnoy kukhni
+64,4,Sport,Tennisnyy kort,5000,,Vechernee osveshchenie
+65,4,Sport,Basketbolnaya ploshchadka,3000,,Dlya komandnoy igry
+66,4,Sport,Futbolnoe pole,7000,,Dlya 11 igrokov
+67,4,Spa,SPA-kompleks,9000,,"Massazh, kosmetologiya, fitnes"
+68,4,Massage,Klassicheskiy massazh,3500,,
+69,4,Massage,Sportivnyy massazh,4000,,
+70,4,Massage,Tayskiy massazh,5000,,
+71,4,Massage,Massazh spiny i shei,3000,,
+72,4,Prokat,Prokat gornolyzhnogo snaryazheniya,3000,,Snowboard ili lyzhi complect
+73,4,Prokat,Prokat gornolyzhnogo snaryazheniya,4000,,Snowboard ili lyzhi komplect
+74,4,Prokat,Prokat botinok,2000,,
+75,4,Prokat,Prokat odezhdy,4000,,
+76,4,Razvlecheniya,Kinoteatr,4000,,Sovremennoe oborudovanie
+77,4,Razvlecheniya,Karaoke-zal,3000,,Dlya 4-6 chelovek
+78,4,Razvlecheniya,Billiard,2000,,Amerikanskiy i russkiy
