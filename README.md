@@ -68,7 +68,7 @@ Microsoft Power BI, MIRO, DBeaver и Python.
 - booking_dim
 - employees_dim
 
-![Физическая_модель_данных](Физическая_модель_данных.png)
+![Физическая_модель_данных](img/Физическая_модель_данных.png)
 
 Подробное описание модели данных можно 
 [посмотреть здесь](https://github.com/Jessjesss/Dashboard_for_hotels/blob/master/database_description.md):
