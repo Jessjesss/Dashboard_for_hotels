@@ -81,7 +81,7 @@ Microsoft Power BI, MIRO, DBeaver и Python.
 [Посмотреть коды генерации](https://github.com/Jessjesss/Dashboard_for_hotels/tree/master/Python_codes)
 
 # 5. Разработка макета дашборда:
-Макет разрабатывался в программе MIRO с использованием готовых элементов визуализаций из фреймворка “Dashboard Canvas 2.0”
+Макет разрабатывался в программе MIRO с использованием готовых элементов визуализаций из фреймворка Романа Бунина - “Dashboard Canvas 2.0”
 
 ![Макет_дашборда](img/Макет_дашборда.png)
 
