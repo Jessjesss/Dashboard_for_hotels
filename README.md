@@ -94,21 +94,6 @@ Microsoft Power BI, MIRO, DBeaver и Python.
 
 ![Модель_данных](img/Модель_данных.png)
 
-Для анализа и создания визуальных элементов были разработаны 9 мер с помощью DAX:
-
-TotalRevenue = SUM('hotels sales_fact'[Sales])
-
-ADR = DIVIDE(COUNT('hotels sales_fact'[hotels booking_dim.count_nights])*SUM('hotels sales_fact'[hotels rooms_dim.price]),COUNT('hotels sales_fact'[booking_id]))*
-
-Доход с номеров = COUNT('hotels sales_fact'[hotels booking_dim.count_nights])*SUM('hotels sales_fact'[hotels rooms_dim.price])*
-
-Загрузка = DIVIDE(COUNT('hotels sales_fact'[booking_id]),COUNT('hotels rooms_dim'[room_id]))*
-
-RevPAR = 'Меры'[ADR]*'Меры'[Загрузка]
-
-Количество бронирований = COUNT('hotels booking_dim'[booking_id])
-
-Средняя продолжительность пребывания гостей = DIVIDE(SUM('hotels sales_fact'[count_nights]),'Меры'[Количество бронирований])
 
 В результате мы разработали дашборд, в котором присутствует:
 
